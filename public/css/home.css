@@ -1,0 +1,26 @@
+h1 {
+  text-align: centre;
+  color: aqua;
+}
+body {
+  background-color: black;
+}
+hr {
+  color: black;
+}
+
+.navbar-nav,
+.nav-button {
+  display: inline-block !important;
+  margin: 4px;
+}
+
+/* .nav-button {
+    width: 1.6rem;
+    border : none;
+    outline: none;
+    border-radius: 5px;
+} */
+hr {
+  color: black;
+}
